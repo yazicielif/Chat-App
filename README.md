@@ -6,5 +6,8 @@ Bu projede bizden Socket programlama ile mesajlajma uygulaması gerçekleştirme
 Projede bizden istendiği gibi TCP temelli kişilerin mesajlaşmasını sağlayan bir uygulama gerçekleştirilmiştir. Uygulamamızda mesajlar gerçek zamanlı olarak gönderilmektedir.
 
 
-[![image](http://github.com/yazicielif/Chat-App/blob/master/ReadmeImages/Mimari.png)]
+[![image](https://i.hizliresim.com/5NBbRD.png)](https://hizliresim.com/5NBbRD)
+
+
+[url=https://hizliresim.com/qojjU1][img]https://i.hizliresim.com/qojjU1.png[/img][/url]
 
