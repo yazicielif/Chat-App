@@ -13,10 +13,20 @@ Yukarıda görülen mimarideki gibi proje üç ana kısımdan oluşmaktadır. Ku
 # Projenin Çalıştırılması
 
 Proje klasörü içinde bir terminal açılır. Bu terminalde
-**npm install**
-**cd client**
-**npm install**
+- **npm install**
+- **cd client**
+- **npm install**
 komutları ard arda terminale girilerek node modülleri tamamen yüklenmiş olur.
 Projeyi çalıştırmak için proje klasörüne gidip
-**npm run dev**
+- **npm run dev**
 komutu çalıştırılır.
+
+# Arayüzler
+
+## Kayıt Ekranı
+
+[![image](https://i.hizliresim.com/miz2wK.png)](https://hizliresim.com/miz2wK)
+
+## Giriş Ekranı
+
+[![image](https://i.hizliresim.com/r52NdD.png)](https://hizliresim.com/r52NdD)
