@@ -17,6 +17,7 @@ Proje klasörü içinde bir terminal açılır. Bu terminalde
 - **cd client**
 - **npm install**
 komutları ard arda terminale girilerek node modülleri tamamen yüklenmiş olur.
+
 Projeyi çalıştırmak için proje klasörüne gidip
 - **npm run dev**
 komutu çalıştırılır.
@@ -30,3 +31,15 @@ komutu çalıştırılır.
 ## Giriş Ekranı
 
 [![image](https://i.hizliresim.com/r52NdD.png)](https://hizliresim.com/r52NdD)
+
+## Chat Odası
+
+[![image](https://i.hizliresim.com/EFMUky.png)](https://hizliresim.com/EFMUky)
+
+## Birebir Chat
+
+[![image](https://i.hizliresim.com/vBMOhU.png)](https://hizliresim.com/vBMOhU)
+
+## Broadcast
+
+[![image](https://i.hizliresim.com/bwfX9B.png)](https://hizliresim.com/bwfX9B)
