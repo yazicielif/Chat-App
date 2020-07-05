@@ -9,5 +9,5 @@ Projede bizden istendiği gibi TCP temelli kişilerin mesajlaşmasını sağlaya
 [![image](https://i.hizliresim.com/5NBbRD.png)](https://hizliresim.com/5NBbRD)
 
 
-[url=https://hizliresim.com/qojjU1][img]https://i.hizliresim.com/qojjU1.png[/img][/url]
+[![image](https://i.hizliresim.com/qojjU1.png)](https://hizliresim.com/qojjU1)
 
